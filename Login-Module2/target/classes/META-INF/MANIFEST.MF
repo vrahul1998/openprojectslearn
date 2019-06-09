@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Login
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ROGUE
+Implementation-Vendor-Id: Open.Projects
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/Login-Module
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
